@@ -16,8 +16,7 @@ This is a template code for loading screens in React. It's minimal and modern lo
 
 ## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/burakork)
 
 ## Show your support
 
